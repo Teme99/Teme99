@@ -34,8 +34,8 @@
 [<img align="left" alt="WordPress | WordPress" width="40px" height="50px" src="https://cdn-icons-png.flaticon.com/128/174/174881.png" />]
 [<img align="left" alt="SQL | SQL" width="40px" height="50px" src="https://cdn-icons-png.flaticon.com/128/5968/5968409.png" />]
 [<img align="left" alt="MySQL | MySQL" width="40px" height="50px" src="https://cdn-icons-png.flaticon.com/128/5968/5968313.png" />]
-[<img align="left" alt="PostGreSQL |PostGreSQL" width="40px" height="50px" src="https://www.flaticon.com/free-icon/postgre_5968342" />]
+[<img align="left" alt="PostGreSQL |PostGreSQL" width="40px" height="50px" src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png" />]
 
 
-[GitHub Stats](https://github-readme-stats.vercel.app/api username=Teme99&theme=radical)
+
 
