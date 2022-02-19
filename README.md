@@ -10,13 +10,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Teme Temesgen | Twitter" width="300px" src="https://cdn-icons-png.flaticon.com/128/733/733553.png" />][github]
+[<img align="left" alt="Teme Temesgen | Twitter" width="300px" height="300px" src="https://cdn-icons-png.flaticon.com/128/733/733553.png" />][github]
 
 ### Languages and Tools:
 
 ### Status
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api username=Teme99&theme=radical)
+[GitHub Stats](https://github-readme-stats.vercel.app/api username=Teme99&theme=radical)
 
 [github]: https://www.github.com/Teme99
 
