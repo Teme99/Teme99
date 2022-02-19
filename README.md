@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Teme Temesgen | github" width="40px" height="50px" src="https://cdn-icons.flaticon.com/png/128/2504/premium/2504941.png?token=exp=1645296398~hmac=cac923b52985491522e6b44599ee9f95" />][telegram]
-[<img align="left" alt="Teme Temesgen | telegram" width="40px" height="50px" src="https://cdn-icons-png.flaticon.com/128/733/733553.png" />][github]
-[<img align="left" alt="Teme Temesgen | twitter" width="40px" height="50px" src="https://cdn-icons-png.flaticon.com/128/733/733553.png" />][twitter]
+[<img align="left" alt="mytelegram | github" width="40px" height="50px" src="https://cdn-icons.flaticon.com/png/128/2504/premium/2504941.png?token=exp=1645296398~hmac=cac923b52985491522e6b44599ee9f95" />][telegram]
+[<img align="left" alt="mygithub| telegram" width="40px" height="50px" src="https://cdn-icons-png.flaticon.com/128/733/733553.png" />][github]
+[<img align="left" alt="mytwitter | twitter" width="40px" height="50px" src="https://cdn-icons-png.flaticon.com/128/733/733553.png" />][twitter]
 
 
 [github]: https://www.github.com/Teme99
