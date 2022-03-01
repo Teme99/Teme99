@@ -1,6 +1,5 @@
-### Hi 👋 I am Tesfaamanuel Lencho - aka [Teme]
-<hr>
-### A Passionate Web Developer
+<h1 align="center">Hi 👋, I'm Tesfaamanuel Lencho(Teme)</h1>
+<h3 align="center">A passionate Web Developer</h3>
 
 - 🔭 I’m currently working on ... new Technologies
 - 🌱 I’m currently learning ... everything
@@ -9,10 +8,6 @@
 - 💬 Ask me about ... anything relating to web development
 - 📫 How to reach me: ... tesfaamanuel.lencho@gmail.com
 - ⚡One thing on my bucket list ... I don't have a bucket😂
-
-
-<h1 align="center">Hi 👋, I'm Tesfaamanuel Lencho(Teme)</h1>
-<h3 align="center">A passionate Web Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teme99" alt="teme99" /></a> </p>
 
