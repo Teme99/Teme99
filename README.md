@@ -9,9 +9,10 @@
 - 📫 How to reach me: ... tesfaamanuel.lencho@gmail.com
 - ⚡One thing on my bucket list ... I don't have a bucket😂
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teme99&show_icons=true&locale=en&layout=compact" alt="teme99" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teme99" alt="teme99" /></a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teme99&show_icons=true&locale=en" alt="teme99" /></p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,9 +27,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/adsfasdfasdf"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adsfasdfasdf" /></a><a href="https://ko-fi.com/adsfasdfasd"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="adsfasdfasd" /></a></p><br><br>
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teme99&show_icons=true&locale=en" alt="teme99" /></p>
-
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teme99&show_icons=true&locale=en&layout=compact" alt="teme99" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teme99" alt="teme99" /></a> </p>
 
