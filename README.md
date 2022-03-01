@@ -1,6 +1,6 @@
 ### Hi 👋 I am Tesfaamanuel Lencho - aka [Teme]
 <hr>
-## A Passionate Web Developer
+### A Passionate Web Developer
 
 - 🔭 I’m currently working on ... new Technologies
 - 🌱 I’m currently learning ... everything
@@ -20,7 +20,7 @@
 [github]: https://www.github.com/Teme99
 [telegram]: https://t.me/Only1ce
 [twitter]: https://twitter.com/TemeTemesgen2
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teme99)](https://github.com/anuraghazra/github-readme-stats)
 ### Languages and Tools:
 
 [<img align="left" alt="Github | Github" width="40px" height="50px" src="https://cdn-icons-png.flaticon.com/128/270/270798.png" />]
