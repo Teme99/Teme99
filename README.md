@@ -10,34 +10,25 @@
 - 📫 How to reach me: ... tesfaamanuel.lencho@gmail.com
 - ⚡One thing on my bucket list ... I don't have a bucket😂
 
-### Connect with me:
+### Hi there 👋, I am Tesfaamanuel Lencho
+#### A Passionate Web Developer
+![A Passionate Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-[<img align="left" alt="github | github" width="40px" height="50px" src="https://cdn-icons.flaticon.com/png/128/2504/premium/2504941.png?token=exp=1645296398~hmac=cac923b52985491522e6b44599ee9f95" />][telegram]
-[<img align="left" alt="telegram| telegram" width="40px" height="50px" src="https://cdn-icons-png.flaticon.com/128/733/733553.png" />][github]
-[<img align="left" alt="twitter | twitter" width="40px" height="50px" src="https://cdn-icons-png.flaticon.com/128/733/733553.png" />][twitter]
+I am a web programmer and make websites and any web-based apps and solutions. I worked with most of the modern-day technologies and programming languages. and yet updating myself.
 
-
-[github]: https://www.github.com/Teme99
-[telegram]: https://t.me/Only1ce
-[twitter]: https://twitter.com/TemeTemesgen2
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teme99)](https://github.com/anuraghazra/github-readme-stats)
-### Languages and Tools:
-
-[<img align="left" alt="Github | Github" width="40px" height="50px" src="https://cdn-icons-png.flaticon.com/128/270/270798.png" />]
-[<img align="left" alt="Python | python" width="40px" height="50px" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" />]
-[<img align="left" alt="C++ | python" width="40px" height="50px" src="https://cdn-icons-png.flaticon.com/128/919/919841.png" />]
-[<img align="left" alt="Java | Java" width="40px" height="50px" src="https://cdn-icons-png.flaticon.com/128/226/226777.png" />]
-[<img align="left" alt="PHP | PHP" width="40px" height="50px" src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" />]
-[<img align="left" alt="Js | Js" width="40px" height="50px" src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png" />]
-[<img align="left" alt="HTML | HTML" width="40px" height="50px" src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" />]
-[<img align="left" alt="CSS | CSS" width="40px" height="50px" src="https://cdn-icons-png.flaticon.com/128/732/732190.png" />]
-[<img align="left" alt="Bootstrap | Bootstrap" width="40px" height="50px" src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" />]
-[<img align="left" alt="Materialize | Materialize" width="40px" height="50px" src="https://cdn-icons.flaticon.com/png/128/1062/premium/1062610.png?token=exp=1645297256~hmac=7da08b4bbb8167cbc4d4d35d56a4b699" />]
-[<img align="left" alt="WordPress | WordPress" width="40px" height="50px" src="https://cdn-icons-png.flaticon.com/128/174/174881.png" />]
-[<img align="left" alt="SQL | SQL" width="40px" height="50px" src="https://cdn-icons-png.flaticon.com/128/5968/5968409.png" />]
-[<img align="left" alt="MySQL | MySQL" width="40px" height="50px" src="https://cdn-icons-png.flaticon.com/128/5968/5968313.png" />]
-[<img align="left" alt="PostGreSQL |PostGreSQL" width="40px" height="50px" src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png" />]
+Skills: HTML / VUE JS / JS / HTML / CSS / PYTHON / JAVA / BOOTSTRAP / BULMA / DJANGO / PHP / SQL
 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Teme99)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teme99)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Teme99&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/Teme99)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Teme99)  
+
+![Profile views](https://gpvc.arturio.dev/Teme99)  
 
