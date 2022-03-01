@@ -12,7 +12,7 @@
 
 ### Hi there 👋, I am Tesfaamanuel Lencho
 #### A Passionate Web Developer
-![A Passionate Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![A Passionate Web Developer]((https://www.canva.com/design/DAE5vNXVkDE/xMzc_JFGg_LcxsqJvfaWzw/view?utm_content=DAE5vNXVkDE&utm_campaign=designshare&utm_medium=link&utm_source=shareyourdesignpanel))
 
 I am a web programmer and make websites and any web-based apps and solutions. I worked with most of the modern-day technologies and programming languages. and yet updating myself.
 
