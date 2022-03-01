@@ -11,7 +11,7 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teme99&show_icons=true&locale=en" alt="teme99" /></p>
-<img src="https://www.canva.com/design/DAE5vNXVkDE/xMzc_JFGg_LcxsqJvfaWzw/view?utm_content=DAE5vNXVkDE&utm_campaign=designshare&utm_medium=link&utm_source=shareyourdesignpanel" width="300" height="300">
+
 
 
 
