@@ -1,4 +1,6 @@
 ### Hi 👋 I am Tesfaamanuel Lencho - aka [Teme]
+<hr>
+## A Passionate Web Developer
 
 - 🔭 I’m currently working on ... new Technologies
 - 🌱 I’m currently learning ... everything
