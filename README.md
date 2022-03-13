@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tesfaamanuel Lencho(Teme)</h1>
+<h1 align="center">Hi 👋, I'm Temesgen Techane(Teme)</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
 - 🔭 I’m currently working on ... new Technologies
