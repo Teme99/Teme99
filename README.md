@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🤔 I’m looking for help with ... commericial development and workplace
 - 💬 Ask me about ... anything relating to web development
-- 📫 How to reach me: ... tesfaamanuel.lencho@gmail.com
+- 📫 How to reach me: ... 3t49631@gmail.com
 - ⚡One thing on my bucket list ... I don't have a bucket😂
 
 
